@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME: Junjar U</H3>
+<H3>ENTER YOUR REGISTER NO. 212224230110</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE: 25/02/2026</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
@@ -40,7 +40,9 @@ Insert your code here
 
 <H3>Output:</H3>
 
-Show your results here
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
